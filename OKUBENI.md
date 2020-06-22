@@ -3,7 +3,7 @@ Bizim bir partnerimiz ol ve birlikte çalışalım!
 
 # Nasıl Oluyor Bu İş?
  Öncelikle, Topluluğumuzda görev alacaksanız Güvenilir ve Saygılı biri olmalısınız.
- Daha sonra, kesinlikle ingilizce bilmelisiniz. <a href=>İngilizce Bilmiyor Musun?</a>
+ Daha sonra, kesinlikle ingilizce bilmelisiniz. <a href="https://github.com/HackLandEcip/partner-ol-sende-bizle-calis/blob/master/OKUBENI.md#i%CC%87ngilizcem-yok-ne-yapca%C4%9F%C4%B1m">İngilizce Bilmiyor Musun?</a>
  
  
  
