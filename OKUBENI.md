@@ -10,8 +10,7 @@ Bizim bir partnerimiz ol ve birlikte çalışalım!
  Deneyim bizim için çok önemli. Bizimle çalışabilmen için en az 1 programlama dili bilmen gerekir.
  <h3> Programlama Dilleri: JavaScript, C#, C++, Python vb.</h3>
  Önceden bu dilleri bilmelisin. Öğrenmek için bir dil seçip internetten derslerini izlemeye başla.
- |__________________________________________________________________________________________________|
- | Ayrıca, Linux ve Linux Terminal hakkında bilgin olması gerkmektedir.                             |                                                                     
+ Ayrıca, Linux ve Linux Terminal hakkında bilgin olması gerkmektedir.                                                                                                
  
  
  
