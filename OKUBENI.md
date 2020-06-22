@@ -39,3 +39,9 @@ Bizim bir partnerimiz ol ve birlikte çalışalım!
  # İngilizcem yok, Ne Yapcağım?
  İngilizce şart dostum. Öğrenmek için <a href="https://tr.duolingo.com/"> DuoLingo'yu <a> sana öneriyoruz. Bu uygulamayı bitirdikten ve Discorddaki ingilizce testinden sonra seni ingilizce biliyor olarak sayacağız.
 
+
+
+# Discord Hacker Testi
+Son olarak, Tüm Şartları Sağladıktan Sonra, Discord Sunucumuzdaki Hacker Adaylık Testini tamamlamanız gerekir.
+Testi Bitirenler Arasından seçim yapılır.
+Not: Testte Deneyim Sorularını Gerçeğinden Daha yüksek olarak işaretlerseniz testiniz geçersiz olur.
