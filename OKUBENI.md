@@ -11,17 +11,17 @@ Bizim bir partnerimiz ol ve birlikte çalışalım!
  <h3> Programlama Dilleri: JavaScript, C#, C++, Python vb.</h3>
  Önceden bu dilleri bilmelisin. Öğrenmek için bir dil seçip internetten derslerini izlemeye başla.
  Ayrıca, Linux ve Linux Terminal hakkında bilgin olması gerkmektedir.                                                                                                
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  # Rolünü seç!
  Her hacker bir rol üstlenir. Örneğin, Çalınan youtube hesaplarını hackleyen bir hacker. Sende rolünü üstlen!
  <a href=>Detaylı Bilgi<a>
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
