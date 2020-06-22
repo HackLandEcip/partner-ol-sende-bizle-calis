@@ -6,6 +6,12 @@ Bizim bir partnerimiz ol ve birlikte çalışalım!
  Daha sonra, kesinlikle ingilizce bilmelisiniz. <a href="https://github.com/HackLandEcip/partner-ol-sende-bizle-calis/blob/master/OKUBENI.md#i%CC%87ngilizcem-yok-ne-yapca%C4%9F%C4%B1m">İngilizce Bilmiyor Musun?</a>
  
  
+ # Deneyim çok önemli!
+ Deneyim bizim için çok önemli. Bizimle çalışabilmen için en az 1 programlama dili bilmen gerekir.
+ <h3> Programlama Dilleri: JavaScript, C#, C++, Python vb.</h3>
+ Önceden bu dilleri bilmelisin. Öğrenmek için bir dil seçip internetten derslerini izlemeye başla.
+ |__________________________________________________________________________________________________|
+ | Ayrıca, Linux ve Linux Terminal hakkında bilgin olması gerkmektedir.                             |                                                                     
  
  
  
