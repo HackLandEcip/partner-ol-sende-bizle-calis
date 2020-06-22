@@ -21,7 +21,7 @@ Bizim bir partnerimiz ol ve birlikte çalışalım!
  
  # Rolünü seç!
  Her hacker bir rol üstlenir. Örneğin, Çalınan youtube hesaplarını hackleyen bir hacker. Sende rolünü üstlen!
- <a href=>Detaylı Bilgi<a>
+ <a href=https://github.com/HackLandEcip/partner-ol-sende-bizle-calis/blob/master/roller-detayl%C4%B1-bilgi.md>Detaylı Bilgi<a>
  
  
  
