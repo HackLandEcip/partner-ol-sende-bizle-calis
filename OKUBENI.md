@@ -42,6 +42,6 @@ Bizim bir partnerimiz ol ve birlikte çalışalım!
 
 
 # Discord Hacker Testi
-Son olarak, Tüm Şartları Sağladıktan Sonra, <a href="https://prototurk.com" target="_blank">Discord Sunucumuzdaki</a> Hacker Adaylık Testini tamamlamanız gerekir.
+Son olarak, Tüm Şartları Sağladıktan Sonra, <a href="https://discord.gg/TrkJcTs" target="_blank">Discord Sunucumuzdaki</a> Hacker Adaylık Testini tamamlamanız gerekir.
 Testi Bitirenler Arasından seçim yapılır.
 <h6>Not: Testte Deneyim Sorularını Gerçeğinden Daha yüksek olarak işaretlerseniz testiniz geçersiz olur.</h6>
